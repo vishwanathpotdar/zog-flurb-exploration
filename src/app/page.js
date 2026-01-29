@@ -7,7 +7,7 @@ export default function Home() {
       <article className="prose lg:prose-xl text-center">
         <h1 className="text-4xl font-bold mb-6">Welcome to the Zog-Flurb-Exploration</h1>
         <p className="text-lg mb-4">
-          We are conducting a live test to see how fast a Vercel deployment appears on Google.
+          We conducting a live test to see how fast a Vercel deployment appears on Google.
           The term <strong className="text-blue-500">Zog-Flurb</strong> is our unique identifier.
         </p>
         
